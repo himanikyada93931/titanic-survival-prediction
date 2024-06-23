@@ -1,1 +1,2 @@
 # titanic-survival-prediction
+Developed a machine learning model to predict the survival of Titanic passengers using historical data. The project includes data preprocessing, feature engineering, and model training with various classification algorithms. Implemented in Python with libraries such as Pandas, Scikit-learn, and Matplotlib, the model aims to achieve high accuracy and reliability. The repository contains the code, data analysis, model evaluation, and visualizations.
